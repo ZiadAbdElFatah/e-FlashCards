@@ -31,3 +31,8 @@ This project demonstrates proficiency in Java programming, GUI development using
 * **File I/O**: For saving and loading flashcards to/from text files.
 * **Object-Oriented Programming (OOP)**: Encapsulation, classes, and objects for managing flashcards and application logic.
 
+
+
+https://github.com/user-attachments/assets/cb2f91ab-a4d1-4521-b5f2-838e56ecad77
+
+
