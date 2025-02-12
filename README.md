@@ -30,6 +30,7 @@ This project demonstrates proficiency in Java programming, GUI development using
 * **Swing**: For building the graphical user interface (GUI).
 * **File I/O**: For saving and loading flashcards to/from text files.
 * **Object-Oriented Programming (OOP)**: Encapsulation, classes, and objects for managing flashcards and application logic.
+---
 
 
 
